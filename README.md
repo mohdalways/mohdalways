@@ -1,5 +1,5 @@
-- 👋 Hi, I’m mohd ameen
-- 👀 I’m interested in ...coding
+#- 👋 Hi, I’m mohd ameen
+##- 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...JS
 - 💞️ I’m looking to collaborate on ...Github
 
